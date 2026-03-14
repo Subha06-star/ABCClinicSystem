@@ -25,10 +25,11 @@ Key capabilities of the system include:
 This project is developed by Group 25:
 
 - Rezarta Marku (101402390)
+ https://github.com/rezarta5/ABCClinicSystem
 - Wasifa Hossain (101594842)
 - Isha (101588052)
 - Sanzida Islam (101564719)
-  
+  https://github.com/Subha06-star/ABCClinicSystem/tree/patch-1
 Course: COMP 2154 – System Development Project
 
 ## 🚀 Features
@@ -127,10 +128,6 @@ These tables are connected through primary keys and foreign key relationships.
    - Open the project in Visual Studio.
    - Configure the database connection 
    - Run the application
-
-## **📂 Project Repository**
-GitHub Repository:
-https://github.com/rezarta5/ABCClinicSystem
 
 ## **📚 Course Information**
 Course: COMP 2154 – System Development Project
